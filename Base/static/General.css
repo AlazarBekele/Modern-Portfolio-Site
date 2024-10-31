@@ -4,6 +4,10 @@
   border-radius: 50%;
 }
 
+.SecondImg {
+  width: 250px;
+}
+
 .NameOwner {
   font-size: 120px;
 }
